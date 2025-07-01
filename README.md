@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+狐麻熊掌｜畢業製作網站
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> 一個結合品牌故事、角色設計與環保理念的畢業專題網站  
+> 由圖文傳播系畢業生共同開發與設計 ✨
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+專案簡介
 
-### `npm start`
+「狐麻熊掌」是一款以「故事式野餐環保便當盒」為主題的品牌設計專案，透過原創角色與插圖，傳達日系野餐的生活儀式感。本網站為此專題的官方網站，由我們使用 **React.js** 開發，整合圖片展示、留言功能與展出資訊等內容。
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+網站 Demo
 
-### `npm test`
+https://gra-project.netlify.app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+原始碼連結
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/jill0817/gra-project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+使用技術
 
-### `npm run eject`
+- React.js (Hooks)  
+- CSS / App.css  
+- API：wttr.in 即時天氣與 MockAPI 留言板  
+- Netlify 靜態網站部署
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+特色功能
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 響應式導覽列與展覽資訊  
+- 品牌故事與角色形象設計展示  
+- 即時天氣顯示  
+- 訪客留言功能  
+- Google 地圖嵌入展覽位置
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+展覽資訊
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 地點：國立臺灣師範大學 圖書館校區 綜合大樓 210 展覽廳  
+- 日期：2023/12/04（一）— 12/08（五）  
+- 時間：09:30 – 19:00
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+團隊成員
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 湯紀柔（前端開發、設計統籌）  
+- 周綺妮（角色設計、品牌視覺）
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+聯絡我們
 
-### Making a Progressive Web App
+歡迎在網站留言板留言給我們！
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
